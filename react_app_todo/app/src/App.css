@@ -1,0 +1,41 @@
+.header {
+  padding: 10px 20px;
+  background: #263238;
+}
+.header input {
+  padding: 6px 20px;
+  border-radius: 2px;
+  background: #cfd8dc;
+  border: none;
+}
+.header button {
+  background: #e64a19;
+  padding: 6px 10px;
+  border-radius: 2px;
+  border: none;
+  margin-left: 10px;
+  color: white;
+  cursor: pointer;
+}
+.header button:hover {
+  background: #d84315;
+}
+.list {
+  background: #f5f5f5;
+  padding: 10px, 20px;
+}
+.list ul {
+  list-style: none;
+}
+.list ul li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 6px;
+}
+.list ul li::before {
+  content: "<> | ";
+  font-weight: bold;
+  color: #bf360c;
+  margin-right: 5px;
+  margin-top: -3px;
+}
