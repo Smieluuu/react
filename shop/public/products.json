@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "Wędka spinningowa",
+      "description": "SAVAGE GEAR SG2 Ultra Light Game 6'6 1.98m M 3-10g/UL 2sec",
+      "img": "https://www.fishingstore.pl/pol_pl_Wedka-spinningowa-SAVAGE-GEAR-SG2-Ultra-Light-Game-66-1-98m-M-3-10g-UL-2sec-22690_1.png",
+      "price": 299.0,
+      "promoPrice": 249.0,
+      "category": "Wedka",
+      "avaible": true
+    },
+    {
+      "id": 1,
+      "name": "Wędka spinningowa",
+      "description": "SAVAGE GEAR SG4 Ultra Light Game 6'6 198cm 2-8g 2sec",
+      "img": "https://www.fishingstore.pl/pol_pl_Wedka-SAVAGE-GEAR-SG4-Ultra-Light-Game-66-198cm-2-8g-2sec-16825_3.png",
+      "price": 410.0,
+      "promoPrice": null,
+      "category": "Wedka",
+      "avaible": false
+    },
+    {
+      "id": 2,
+      "name": "Wędka spinningowa",
+      "description": "MIKADO Sensual N.G. Medium Light Spin 214 c.w. 3-18 g (2 sec)",
+      "img": "https://www.fishingstore.pl/pol_pl_Wedka-MIKADO-Sensual-N-G-Medium-Light-Spin-214-c-w-3-18-g-2-sec-12738_1.png",
+      "price": 99.0,
+      "promoPrice": 89.0,
+      "category": "Wedka",
+      "avaible": true
+    },
+    {
+      "id": 3,
+      "name": "Wędka castingowa",
+      "description": "Wędka Westin W3 Bass Finesse Crank-T 2nd 7'/210cm",
+      "img": "https://www.fishingstore.pl/pol_pl_Wedka-Westin-W3-Bass-Finesse-Crank-T-2nd-7-210cm-ML-5-15g-1-1-sec-21197_5.png",
+      "price": 559.0,
+      "promoPrice": null,
+      "category": "Wedka",
+      "avaible": true
+    },
+    {
+      "id": 4,
+      "name": "Wędka castingowa",
+      "description": "Wędka WESTIN W3 Powercast-T 8'3'/248cm 3XH 60-180g 2sec",
+      "img": "https://www.fishingstore.pl/pol_pl_Wedka-WESTIN-W3-Powercast-T-83-248cm-3XH-60-180g-2sec-24072_1.jpg",
+      "price": 479.0,
+      "promoPrice": null,
+      "category": "Wedka",
+      "avaible": true
+    },
+    {
+      "id": 5,
+      "name": "Wędka castingowa",
+      "description": "Wędka castingowa JAXON Grey Stream 228cm 10-35g",
+      "img": "https://www.fishingstore.pl/pol_pl_Wedka-castingowa-JAXON-Grey-Stream-228cm-10-35g-18413_4.jpg",
+      "price": 149.0,
+      "promoPrice": null,
+      "category": "Wedka",
+      "avaible": true
+    },
+    {
+      "id": 6,
+      "name": "Mato-Miarka",
+      "description": "Miarka wędkarska FOX RAGE Camo predator measure 140cm",
+      "img": "https://www.fishingstore.pl/pol_pl_Miarka-wedkarska-FOX-RAGE-Camo-predator-measure-140cm-17932_1.jpg",
+      "price": 149.0,
+      "promoPrice": null,
+      "category": "Akcesoria",
+      "avaible": true
+    },
+    {
+      "id": 7,
+      "name": "Mato-Miarka",
+      "description": "Miarka - mata MIKADO JAWS 130 x 30cm",
+      "img": "https://www.fishingstore.pl/pol_pl_Miarka-mata-MIKADO-JAWS-130-x-30cm-25149_1.png",
+      "price": 79.0,
+      "promoPrice": null,
+      "category": "Akcesoria",
+      "avaible": true
+    },
+    {
+      "id": 8,
+      "name": "Miarka",
+      "description": "Miarka wędkarska, rozciągana Konger 150cm",
+      "img": "https://www.fishingstore.pl/pol_pl_Miarka-wedkarska-Konger-150cm-15930_1.png",
+      "price": 10,
+      "promoPrice": null,
+      "category": "Akcesoria",
+      "avaible": true
+    },
+    {
+      "id": 9,
+      "name": "Plecionka",
+      "description": "Plecionka Mikado NIHONTO FINE BRAID 035 FLUO 150M",
+      "img": "https://www.fishingstore.pl/pol_pl_Plecionka-Mikado-NIHONTO-FINE-BRAID-035-FLUO-150M-6252_5.jpg",
+      "price": 29.0,
+      "promoPrice": null,
+      "category": "Linki",
+      "avaible": true
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+body {
+  background: #ffffff;
+}
+/* header css style */
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #cfd8dc;
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+  height: 100px;
+}
+.img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+.header h1 {
+  font-size: 30px;
+  padding: 35px;
+  color: rgba(23, 123, 182, 255);
+  border-radius: 50%;
+}
+.product button {
+  margin-top: 60px;
+}
+.price {
+  margin-bottom: 5px;
+}
