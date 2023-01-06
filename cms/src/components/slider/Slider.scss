@@ -1,0 +1,49 @@
+@import "./../../assets/colors";
+
+.slider-container {
+  color: $black;
+  display: flex;
+  justify-content: center;
+  background: $appBackground;
+  padding: 20px;
+
+  .slider {
+    background: $white;
+    color: $black;
+    height: 400px;
+    padding: 20px;
+    width: 60%;
+  }
+
+  .slider-employee {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .slider-employee h1 {
+    font-size: 20px;
+    margin-right: 50px;
+  }
+
+  .slider-employee-image {
+    margin-left: 20px;
+  }
+
+  .slider-text {
+    border: 5px solid $appBackground;
+    border-radius: 10px;
+    width: 33%;
+    padding: 5px;
+    box-sizing: border-box;
+    text-align: center;
+  }
+
+  .slider-text h2 {
+    font-size: 18px;
+  }
+
+  .info-container {
+    font-size: 14px;
+  }
+}

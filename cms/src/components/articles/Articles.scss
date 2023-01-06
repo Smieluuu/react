@@ -1,0 +1,21 @@
+@import "./../../assets/colors";
+
+.articles-container {
+  color: $black;
+  display: flex;
+  justify-content: center;
+  background: $appBackground;
+  padding: 20px;
+
+  .articles {
+    background: $white;
+    color: $black;
+    height: 400px;
+    padding: 20px;
+    width: 60%;
+  }
+
+  .fewWordsAboutU {
+    width: 855px;
+  }
+}

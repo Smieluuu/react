@@ -1,0 +1,12 @@
+@import "./../../assets/colors";
+
+.footer-container {
+  height: auto;
+  color: $white;
+  background: $black;
+  padding: 20px;
+  height: 55px;
+}
+.footer-rounding {
+  border-radius: 0 0 30px 30px;
+}
